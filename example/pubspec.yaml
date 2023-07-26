@@ -40,8 +40,8 @@ dependencies:
     git: https://github.com/amsyary/flutter_chat_ui.git
   flutter_firebase_chat_core:
     git:
-      url: https://github.com/amsyary/flutter_firebase_chat_core.git
-      ref: fe53a12
+      url: https://github.com/carlosbatistadev/flutter_firebase_chat_core.git
+      ref: main
   http: ^0.13.4
   image_picker: ^0.8.4+4
   mime: ^1.0.1
